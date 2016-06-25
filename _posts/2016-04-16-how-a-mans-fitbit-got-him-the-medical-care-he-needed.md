@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-25T18:21:34.071Z'
+datePublished: '2016-06-25T18:29:16.581Z'
 sourcePath: _posts/2016-04-16-how-a-mans-fitbit-got-him-the-medical-care-he-needed.md
 inFeed: true
 isBasedOnUrl: 'http://www.buzzfeed.com/stephaniemlee/fitbit-in-the-hospital#.hpzkQq9bY'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-25T18:21:33.755Z'
+dateModified: '2016-06-25T18:28:02.198Z'
 title: How A Man's Fitbit Got Him The Medical Care He Needed
 app_links:
   - url: 'buzzfeed://buzz/stephaniemlee/fitbit-in-the-hospital'
@@ -58,4 +58,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>How A Man's Fitbit Got Him The Medical Care He Needed</h1><p>On Jan. 5, a man checked into a hospital's emergency room in Camden, New Jersey. Because his heart was beating irregularly, doctors suspected he had atrial fibrillation, the most common type of arrhythmia, which can increase the risk of stroke. But to decide how to treat him, they needed to know exactly how long his heart had been acting up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1b60c78627ff11ae2ea14739839ddb75da3c70d.jpg" /></article>
+![On Jan. 5, a man checked into a hospital's emergency room in Camden, New Jersey. Because his heart was beating irregularly, doctors suspected he had atrial fibrillation, the most common type of arrhythmia, which can increase the risk of stroke. But to decide how to treat him, they needed to know exactly how long his heart had been acting up.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52717a05-1892-455f-b536-f679309fea9f.jpg)
